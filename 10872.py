@@ -7,3 +7,4 @@ def fact(n):
 
 a = int(input())
 print(fact(a))
+//test
